@@ -1,4 +1,4 @@
-# -IncidentHandlerJournal
+# Incident Handler Journal
 
 Activity Overview
 
